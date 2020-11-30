@@ -1,2 +1,2 @@
 # cscad
-a scaffolding framework for OpenSCAD
+a easy to use  framework for OpenSCAD
